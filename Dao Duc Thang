@@ -1,1 +1,24 @@
+<nav class="main-nav" id="main-nav">
+  <a href="https://laivanduc.vn/">Trang chủ</a>
+  <a href="#">HTML</a>
+  <a href="#">CSS</a>
+  <a href="#">javascript</a>
+  <a href="#">jquery</a>
+  <a href="#">Design</a>
+</nav>
+
+<div class="page-wrap">
+
+  <header class="main-header">
+    <a href="#main-nav" class="open-menu">
+      ☰
+    </a>
+    <a href="#" class="close-menu">
+      ☰
+    </a>
+    
+    <h1>Code Menu Sidebar Responsive</h1>
+  </header>
+  
+  <div class="content">
 
