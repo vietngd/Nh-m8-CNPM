@@ -1,0 +1,57 @@
+
+<aside class="profile-card">
+
+<header>
+
+<!-- Hình của bạn -->
+<a href="https://laivanduc.vn">
+<img src="http://farm5.staticflickr.com/4175/34651231232_b1a413839f_o.jpg">
+</a>
+
+<!-- Tên của bạn -->
+<h1>Trần Hoàng Vũ</h1>
+
+<!-- Công việc hay nghề của bạn -->
+<h2>- Sinh viên viễn thông -</h2>
+
+</header>
+
+<!-- Thêm thông tin của bạn -->
+<div class="profile-bio">
+
+<p>Chào mừng các bạn</p>
+<p>Tôi là một sinh viên. Tôi chủ yếu làm việc với PHP, HTML, CSS, JS và WordPress.
+<br />Tôi cũng làm việc tốt với Photoshop, Corel Draw, After Effects và vài thứ khác.</p>
+
+</div>
+
+<!-- Liên kết mạng xã hội -->
+<ul class="profile-social-links">
+
+<!-- Thông tin tài khoản twitter -->
+<li>
+<a href="https://twitter.com/">
+<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/210284/social-twitter.svg">
+</a>
+</li>
+
+<!-- Thông tin Facebook -->
+<li>
+<a href="https://facebook.com">
+<img src="http://farm5.staticflickr.com/4221/34651248062_73641b1a80_o.png">
+</a>
+</li>
+
+<!-- Tài khoản Google +-->
+<li>
+<a href="https://plus.google.com/u/0/118260931574775251745/posts">
+<img src="http://farm5.staticflickr.com/4186/34004419773_ed97040ef5_o.png">
+</a>
+</li>
+
+<!--Bạn có thể thêm hoặc xóa mạng xã hội tại đây-->
+
+</ul>
+
+</aside>
+<!-- Chỉ có vậy thôi !
