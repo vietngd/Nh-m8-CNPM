@@ -1,0 +1,63 @@
+body {
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+    background-image: url(https://cdn.pixabay.com/photo/2016/10/20/18/35/earth-1756274_960_720.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.content_all_box {
+    border: 1px solid;
+    max-width: 600px;
+    background-color: #b4c9c9;
+}
+
+.setHeader {
+    display: flex;
+    height: 200px;
+}
+
+.set_all_avt {
+    padding: 0px 0px 0 35px;
+}
+
+.box_text_first {
+    padding-left: 20px;
+    padding-top: 10%;
+}
+
+.avatar_Profile {
+    border-radius: 50%;
+    border: 3px solid #000000;
+    height: 100%;
+}
+h3 {
+    text-align: center;
+    color: #000000;
+}
+
+.text-first {
+    font-weight: 550;
+    font-size: 16px;
+    color: black;
+}
+
+.contact-all {
+    display: flex;
+    justify-content: center;
+}
+.contact_chung-child {
+    padding: 0 20px 10px 20px;
+    font-size: 20px;
+}
+
+@media screen and (max-width: 800px) {
+    .content_all_box {
+        margin-top: 0;
+    }
+
+    .content_all_box {
+        min-width: 600px;
+    }
+}
