@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NguyenKhanh</title>
+    <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+    <div class="wrapper">
+        <div class="header">
+            <h1>My Profile</h1>
+        </div>
+        <div class="wrapper2">
+            <div id="profile">
+                <img src="https://scontent.fhan2-5.fna.fbcdn.net/v/t1.6435-9/143034028_1025033281341217_7005251424358649140_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=sXqKJ97Xm5UAX-lgo20&_nc_ht=scontent.fhan2-5.fna&oh=00_AfA89CkFg0UAF3BD1b7a-5e1EdWZ7CM1Gu_63fHjOVuTlg&oe=641BE279" alt="">
+                <h1>Nguyen Ba Quoc Khanh</h1>
+                <p>  </p>
+            </div>
+            <div id="contact">
+                <h1>Contact Information</h1><br>
+                <p>Email: kn0354921729@gmail.com</p><br><br>
+                <p>Phone: 0354-921-729</p><br><br>
+                <p>Location: Đai Mo, Nam Tu Liem, Ha Noi</p><br><br>
+                <p id="hihi">Social network: </p><br><br>
+                <a href="https://www.facebook.com/profile.php?id=100015036644010&mibextid=ZbWKwL"><img id="face" src="../image/Facebook.png" alt=""></a>
+                <a href="https://www.instagram.com/invites/contact/?i=1pea4ws9wb97a&utm_content=5fadxo6"><img id="ins" src="../image/instagram.jpg" alt=""></a>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
